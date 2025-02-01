@@ -21,7 +21,7 @@ This repository contains a Python-based desktop application that assesses your t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/typing-speed-test.git
+   git clone https://github.com/datnaijakid/typing-speed-test.git
    cd typing-speed-test
    ```
 
